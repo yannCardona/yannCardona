@@ -5,4 +5,4 @@
 - 🌱 I’m currently learning Python and doing a Udemy course on system penetration.
 
 - Languages and Tools:
-c cplusplus python bash mysql git docker linux
+c c++ python bash mysql git docker linux

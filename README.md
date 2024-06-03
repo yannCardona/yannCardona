@@ -1,8 +1,8 @@
 ### Hi there, I'm Yann 👋
 
-- 🔭 I’m currently working on my final project from the 42 Berlin core curriculum. It's about building a single-page application allowing users to play pong online against eachother and including lots of extra features.
+- 🔭 I recently finished the core cuuriculum at the coding school <a href="https://42.fr/berlin/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" alt="42 Berlin" style="width: 40px;"/></a> Berlin
 
-- 🌱 I’m currently learning to work with Django Framework and doing a Udemy course on system penetration.
+- 🌱 I’m currently learning how to work with LLMs and other neuonal networks and doing a Udemy course on system penetration.
 
 - Languages and Tools:
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">

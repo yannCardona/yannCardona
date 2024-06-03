@@ -29,5 +29,9 @@
 <a href="https://www.kernel.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" style="width: 50px;"/>
 </a>
-
-c c++ python bash mysql git docker linux
+<a href="https://www.djangoproject.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" alt="Django" style="width: 50px;"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" style="width: 50px;"/>
+</a>

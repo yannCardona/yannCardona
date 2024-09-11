@@ -2,7 +2,7 @@
 
 - 🔭 I recently finished the core cuuriculum at the coding school <a href="https://42.fr/berlin/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" alt="42 Berlin" style="width: 40px;"/></a> Berlin
 
-- 🌱 I’m currently learning about LLMs and neuonal networks and started the specialization AI & DATA at the coding school <a href="https://42.fr/berlin/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" alt="42 Berlin" style="width: 40px;"/></a> Berlin
+- 🌱 I started the specialization AI & DATA at the coding school <a href="https://42.fr/berlin/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" alt="42 Berlin" style="width: 40px;"/></a> Berlin and am currently learning about LLMs and neuonal networks + I started learning about AWS
 
 - 🎨👨‍💻 My current personal project is an interactive desktop pet
 

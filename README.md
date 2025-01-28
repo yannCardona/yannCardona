@@ -6,6 +6,8 @@
 
 - 🎨👨‍💻 My current personal project is an interactive desktop pet
 
+- 💸 I am currently working on a project for the NGO Principles for Peace, building a Chat Bot to interact with Data, combining SQL-Agent and RAG.  
+
 - Languages and Tools:
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" style="width: 50px;"/>

@@ -4,7 +4,7 @@
 
 - 🌱 I started the specialization AI & DATA at the coding school <a href="https://42.fr/berlin/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" alt="42 Berlin" style="width: 40px;"/></a> Berlin and am currently learning about LLMs and neuonal networks
 
-- 🎨👨‍💻 My current personal project is an interactive desktop pet
+- 🎨👨‍💻 My current personal project is an interactive desktop pet, that scrapes data from your computer and builds a RAG with it
 
 - 💸 I am currently working on a project for the NGO Principles for Peace, building a Chat Bot to interact with Data, combining SQL-Agent and RAG.  
 
